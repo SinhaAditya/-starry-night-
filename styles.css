@@ -47,6 +47,7 @@ button {
     background-color: #3a0aab;
     color: rgb(255, 255, 255);
     border-radius: 8px;
+    touch-action: manipulation;
 }
 
 button:hover {
